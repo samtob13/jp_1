@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+sqlalchemy
+plotly.express
+gspread
+oauth2client
+gspread_dataframe
+streamlit_option_menu
